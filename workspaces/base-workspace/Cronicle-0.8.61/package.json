@@ -33,7 +33,7 @@
 		"font-awesome": "4.7.0",
 		"mdi": "1.9.33",
 		"chart.js": "2.9.4",
-		"moment": "2.22.1",
+		"moment": "2.29.4",
 		"moment-timezone": "0.5.32",
 		"jstimezonedetect": "1.0.6",
 		"netmask": "2.0.1",
