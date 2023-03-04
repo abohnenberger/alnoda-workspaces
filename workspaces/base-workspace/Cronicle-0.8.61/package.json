@@ -55,7 +55,7 @@
 		"pixl-server-storage": "2.0.10",
 		"pixl-server-web": "1.1.7",
 		"pixl-server-api": "1.0.2",
-		"pixl-server-user": "1.0.9"
+		"pixl-server-user": "1.0.21"
 	},
 	"devDependencies": {
 		"pixl-unit": "1.0.10"
