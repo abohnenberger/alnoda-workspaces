@@ -20,3 +20,4 @@ checkov==2.0.359
 # https://github.com/antonbabenko/pre-commit-terraform
 pre-commit==2.14.0
 werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+ansible-core>=2.12.0b1 # not directly required, pinned by Snyk to avoid a vulnerability
