@@ -23,8 +23,8 @@
 	],
 	"dependencies": {
 		"async": "2.6.0",
-		"socket.io": "1.7.3",
-		"socket.io-client": "1.7.3",
+		"socket.io": "2.0.0",
+		"socket.io-client": "2.0.0",
 		"mkdirp": "0.5.1",
 		"glob": "5.0.15",
 		"uglify-js": "2.8.22",
@@ -52,8 +52,8 @@
 		"pixl-mail": "1.0.11",
 		"pixl-perf": "1.0.5",
 		"pixl-server": "1.0.26",
-		"pixl-server-storage": "2.0.10",
-		"pixl-server-web": "1.1.7",
+		"pixl-server-storage": "3.0.11",
+		"pixl-server-web": "1.2.0",
 		"pixl-server-api": "1.0.2",
 		"pixl-server-user": "1.0.9"
 	},
