@@ -88,3 +88,4 @@ mkdocs-table-reader-plugin==0.6
 # https://github.com/mondeja/mkdocs-mdpo-plugin
 # mkdocs-mdpo-plugin==0.0.14 
 pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
