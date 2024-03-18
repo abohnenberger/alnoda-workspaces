@@ -22,7 +22,7 @@ pylint-json2html==0.3.0
 pytest-html-reporter==0.2.6
 
 poetry==1.1.6
-black==21.5b2
+black==24.3.0
 isort==5.8.0
 flake8==3.9.2
 mypy==0.812
