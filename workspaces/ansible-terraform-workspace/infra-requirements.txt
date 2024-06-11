@@ -16,7 +16,10 @@ ansible-doctor==0.3.1
 # https://github.com/28mm/blast-radius
 blastradius==0.1.23
 # https://github.com/bridgecrewio/checkov
-checkov==2.0.359
+checkov==2.0.1029
 # https://github.com/antonbabenko/pre-commit-terraform
 pre-commit==2.14.0
-werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
