@@ -33,3 +33,4 @@ pylint==2.10.2
 
 jupyter==1.0.0
 pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
